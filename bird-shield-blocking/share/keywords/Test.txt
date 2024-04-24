@@ -1,1 +1,4 @@
-filter10\\(txt=/(https?:\/\/t\.co\/\w+)/)|txt=/@\w+/
+filter15\\(c.id=/1260553941714186241|1586332050528915457/)&foc<10&frc<10&cd<1y&sn=/\d+$/&ptc=1&(txt=/^(([^@]+(@\w+|https?:\/\/t\.co\/\w+)[^@]+)|undefined|\s*)$/|txt=/(外宣|脑残粉)/)
+filter100\\(c.id=/1260553941714186241|1586332050528915457/)&foc<10&frc<10&cd<1y&(sn=~@|(sn~@&sn=/\d+$/))&ptc=1&(lang*=qm|txt=/^\s*$/|info=/([bB]itcoin|[Ee]therum)/|info=/^\s*$/)
+filter20\\(c.id=/1260553941714186241|1586332050528915457/)&foc<10&frc<10&cd<1y&sn=/\d+$/&ptc=1&(lang*=qm|txt=/^\s*$/|info=/([bB]itcoin|[Ee]therum)/|info=/^\s*$/|txt=/(外宣|脑残粉|李老师)/)
+filter10\\(c.id=/1260553941714186241|1586332050528915457/)&foc<10&frc<10&cd<1y&sn=/\d+$/&(txt=/^(([^@]+(@\w+|https?:\/\/t\.co\/\w+)[^@]+)|undefined|\s*)$/|txt=/(外宣|脑残粉)/)&(info=/([bB]itcoin|[Ee]therum)/|info=/^\s*$/)
