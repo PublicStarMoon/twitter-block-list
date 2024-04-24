@@ -1,1 +1,1 @@
-txt=/https?:\/\/t\.co\/\w+/
+txt=/t[.]{2}co/
