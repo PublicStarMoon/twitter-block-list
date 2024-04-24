@@ -1,2 +1,9 @@
-filter10\\(txt=/^(undefined|(([\n\r\t]|.)*(@\w+|https?:\/\/t\.co\/\w+)([\n\r\t]|.)*)+)$/) 1713942701960
-filter10\\(txt=/^(undefined|(([\n\r\t]|.)*(@\w+|https?:\/\/t\.co\/\w+)+([\n\r\t]|.)*)+)$/) 1713942701960
+filter10\\(txt=/^(undefined|(([\n\r\t]|.)*(@\w+|https?:\/\/t\.co\/\w+)([\n\r\t]|.)*)+)$/) 1713944058354
+filter10\\(txt=/^(undefined|(([\n\r\t]|.)*(@\w+|https?:\/\/t\.co\/\w+)+([\n\r\t]|.)*)+)$/) 1713944058354
+filter10\\(txt=/^(([\n\r\t]|.)*(@\w+|https?:\/\/t\.co\/\w+)+([\n\r\t]|.)*)+$/) 1713944058354
+filter10\\(txt=/^([^\@\/]*(@\w+|https?:\/\/t\.co\/\w+)([^@\/])*)+$/) 1713944058354
+filter10\\(txt=/^^(\@\w+|https?:\/\/t\.co\/\w+)+$/) 1713944058354
+filter10\\(txt=/^(\@\w+|https?:\/\/t\.co\/\w+)+$/) 1713944058354
+filter10\\(txt=/(\@\w+|https?:\/\/t\.co\/\w+)+/) 1713944058354
+filter10\\(txt=/(@\w+|https?:\/\/t\.co\/\w+)+/) 1713944058354
+filter10\\(txt=/(https?:\/\/t\.co\/\w+)/) 1713944058354
