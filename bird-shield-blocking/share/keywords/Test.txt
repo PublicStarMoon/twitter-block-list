@@ -1,1 +1,1 @@
-txt=/t[.]{2}co/
+txt=/(@\w+){2,}/|ptc=1|url=/lilaoshi|lee1ng|liying/
