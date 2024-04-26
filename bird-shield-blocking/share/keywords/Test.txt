@@ -1,1 +1,4 @@
-@leguo14
+mark50\\txt=/^@elonmusk\s{1}Mor/
+mark100\\txt=/^@X_BEBEeth\s{1}@elonmusk\s{1}The/
+mark100\\txt=/^@X_BEBEeth\s{1}@elonmusk\s{1}No/
+mark1000\\txt=/^(@\w+\s{1}){1,}[^@]{0,}(https:\/\/t\.co\/\w+){1,}[^]*$/
