@@ -29,3 +29,4 @@ twitter.com/Melissa87956877/status/1783676211383959880
 (c.id=/1250464716113227778/)&(foc<2&frc<20)&(ptc=1)
 (c.id=/1250464716113227778/)&(frc<1&foc<1&cd<1y)
 (c.id=/1250464716113227778/)&(foc<10&frc<30)&txt=/Wang Jingyu/
+txt*=弗洛伊德|txt*=Floyd
